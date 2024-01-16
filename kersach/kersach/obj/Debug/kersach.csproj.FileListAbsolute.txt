@@ -1,0 +1,17 @@
+C:\kyrsach\kersach\kersach\bin\Debug\Account.mdb
+C:\kyrsach\kersach\kersach\bin\Debug\kersach.exe.config
+C:\kyrsach\kersach\kersach\bin\Debug\kersach.exe
+C:\kyrsach\kersach\kersach\bin\Debug\kersach.pdb
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.csproj.AssemblyReference.cache
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.Form1.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.Properties.Resources.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.csproj.GenerateResource.cache
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.csproj.CoreCompileInputs.cache
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.exe
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.pdb
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.FormAddAccount.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.FormAddWorker.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.FormDelAccount.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.formDelWorker.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.FormEditAccount.resources
+C:\kyrsach\kersach\kersach\obj\Debug\kersach.FormEditWorker.resources
